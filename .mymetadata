@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="korres"
+  id="myeclipse.1376034277078"
+  context-root="/korres"
+  j2ee-spec="5.0"
+  archive="korres.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
