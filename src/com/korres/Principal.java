@@ -5,9 +5,9 @@ import java.io.Serializable;
 /*
  * 类名：Principal.java
  * 功能说明：用户登录安全对象
- * 创建日期：2013-8-14 下午04:02:12
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-14 下午04:02:12
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

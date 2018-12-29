@@ -5,9 +5,9 @@ import org.apache.shiro.authc.UsernamePasswordToken;
 /*
  * 类名：AuthenticationToken.java
  * 功能说明：登录token令牌
- * 创建日期：2013-8-14 下午04:04:27
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-14 下午04:04:27
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

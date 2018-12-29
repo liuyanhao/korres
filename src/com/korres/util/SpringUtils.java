@@ -13,9 +13,9 @@ import org.springframework.web.servlet.LocaleResolver;
 /*
  * 类名：SpringUtils.java
  * 功能说明：spring 上下文工具类
- * 创建日期：2013-8-14 下午04:08:10
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-14 下午04:08:10
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

@@ -7,9 +7,9 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 /*
  * 类名：Filter.java
  * 功能说明：条件过滤类
- * 创建日期：2013-8-9 下午01:56:04
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-11-09 下午01:56:04
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

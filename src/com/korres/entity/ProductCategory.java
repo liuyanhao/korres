@@ -23,9 +23,9 @@ import org.hibernate.validator.constraints.NotEmpty;
 /*
  * 类名：ProductCategory.java
  * 功能说明：产品类别实体类
- * 创建日期：2013-8-28 下午03:20:28
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-08-28 下午03:20:28
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

@@ -29,9 +29,9 @@ import com.korres.Setting;
 /*
  * 类名：DepositController.java
  * 功能说明：预存款
- * 创建日期：2013-12-20 下午04:52:57
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-20 下午04:52:57
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$
@@ -61,8 +61,8 @@ public class DepositController extends BaseController {
 	 * 预存款充值
 	 * @param model
 	 * @return
-	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:53:47
+	 * @author liuxicai
+	 * @date 2018-12-20 下午04:53:47
 	 */
 	@RequestMapping(value = { "/recharge" }, method = { org.springframework.web.bind.annotation.RequestMethod.GET })
 	public String recharge(ModelMap model) {
@@ -82,8 +82,8 @@ public class DepositController extends BaseController {
 	 * @param request
 	 * @param model
 	 * @return
-	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:53:58
+	 * @author liuxicai
+	 * @date 2018-12-20 下午04:53:58
 	 */
 	@RequestMapping(value = { "/recharge" }, method = { org.springframework.web.bind.annotation.RequestMethod.POST })
 	public String recharge(BigDecimal amount, String paymentPluginId,
@@ -132,8 +132,8 @@ public class DepositController extends BaseController {
 	 * @param pageNumber
 	 * @param model
 	 * @return
-	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:53:02
+	 * @author liuxicai
+	 * @date 2018-12-20 下午04:53:02
 	 */
 	@RequestMapping(value = { "/list" }, method = { org.springframework.web.bind.annotation.RequestMethod.GET })
 	public String list(Integer pageNumber, ModelMap model) {

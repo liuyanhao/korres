@@ -18,9 +18,9 @@ import com.korres.Pageable;
 /*
  * 类名：CouponCodeController.java
  * 功能说明：优惠券
- * 创建日期：2013-12-20 下午04:45:16
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-20 下午04:45:16
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$
@@ -46,7 +46,7 @@ public class CouponCodeController extends BaseController {
 	 * @param model
 	 * @return
 	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:48:39
+	 * @date 2018-12-20 下午04:48:39
 	 */
 	@RequestMapping(value = { "/exchange" }, method = { org.springframework.web.bind.annotation.RequestMethod.GET })
 	public String exchange(Integer pageNumber, ModelMap model) {
@@ -63,7 +63,7 @@ public class CouponCodeController extends BaseController {
 	 * @param id
 	 * @return
 	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:48:47
+	 * @date 2018-12-20 下午04:48:47
 	 */
 	@RequestMapping(value = { "/exchange" }, method = { org.springframework.web.bind.annotation.RequestMethod.POST })
 	@ResponseBody
@@ -90,8 +90,8 @@ public class CouponCodeController extends BaseController {
 	 * @param pageNumber
 	 * @param model
 	 * @return
-	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:45:53
+	 * @author liuxicai
+	 * @date 2018-12-20 下午04:45:53
 	 */
 	@RequestMapping(value = { "/list" }, method = { org.springframework.web.bind.annotation.RequestMethod.GET })
 	public String list(Integer pageNumber, ModelMap model) {

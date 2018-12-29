@@ -26,9 +26,9 @@ import com.korres.Setting;
 /*
  * 类名：ShippingMethod.java
  * 功能说明：
- * 创建日期：2013-8-28 下午03:36:26
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-08-28 下午03:36:26
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

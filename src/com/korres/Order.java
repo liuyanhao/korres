@@ -8,9 +8,9 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
 /*
  * 类名：Order.java
  * 功能说明：排序条件类
- * 创建日期：2013-8-9 下午01:54:18
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-9 下午01:54:18
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

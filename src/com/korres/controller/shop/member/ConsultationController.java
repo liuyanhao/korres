@@ -14,9 +14,9 @@ import com.korres.Pageable;
 /*
  * 类名：ConsultationController.java
  * 功能说明：商品咨询
- * 创建日期：2013-12-20 下午04:38:30
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-20 下午04:38:30
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$
@@ -38,8 +38,8 @@ public class ConsultationController extends BaseController {
 	 * @param pageNumber
 	 * @param model
 	 * @return
-	 * @author weiyuanhua
-	 * @date 2013-12-20 下午04:46:09
+	 * @author liuxicai
+	 * @date 2018-12-20 下午04:46:09
 	 */
 	@RequestMapping(value = { "/list" }, method = { org.springframework.web.bind.annotation.RequestMethod.GET })
 	public String list(Integer pageNumber, ModelMap model) {

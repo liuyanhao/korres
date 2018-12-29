@@ -17,9 +17,9 @@ import com.korres.entity.Member;
 /*
  * 类名：DepositDaoImpl.java
  * 功能说明：预存款dao实现类
- * 创建日期：2013-12-20 下午04:58:23
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-20 下午04:58:23
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

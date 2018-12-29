@@ -21,9 +21,9 @@ import com.korres.Pageable;
 /*
  * 类名：ConsultationServiceImpl.java
  * 功能说明：商品咨询service实现类
- * 创建日期：2013-12-20 下午05:01:41
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-12-20 下午05:01:41
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$

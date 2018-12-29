@@ -9,9 +9,9 @@ import org.springframework.stereotype.Component;
 /*
  * 类名：StaticJob.java
  * 功能说明：定时初始化所有静态页面
- * 创建日期：2013-8-9 下午01:41:25
- * 作者：weiyuanhua
- * 版权：korres
+ * 创建日期：2018-11-09 下午01:41:25
+ * 作者：liuxicai
+ * 版权：yanhaoIt
  * 更新时间：$Date$
  * 标签：$Name$
  * CVS版本：$Revision$
